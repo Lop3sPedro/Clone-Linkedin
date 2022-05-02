@@ -15,7 +15,7 @@ const ProfilePanel: React.FC = () => {
           className="profile-picture"
         />
         <h1>Pedro Henrique Lopes</h1>
-        <h2>Dev. Front-end jr. @lionX</h2>
+        <h2>Dev. Front-end jr. @LionX</h2>
 
         <div className="separator"></div>
 
