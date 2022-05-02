@@ -6,7 +6,7 @@ export const Container = styled.div`
   .profile-cover {
     width: 100%;
     height: 54px;
-    background: var(--color-header);
+    background-image:linear-gradient(90deg, #00ffff, #000) ;
   }
   .profile-picture {
     width: 72px;
